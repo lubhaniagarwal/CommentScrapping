@@ -7,6 +7,7 @@ The information extracted on topic :
 --> discussion / comments -> climatic effects on crops:
 
 information extracted are:
+
 1.Title problem 
 2.Author/Speaker
 3.Discussions
