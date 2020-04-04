@@ -7,9 +7,9 @@ The information extracted on topic :
 --> discussion / comments -> climatic effects on crops:
 
 information extracted are:
-Title problem 
-Author/Speaker
-discussion
+1.Title problem 
+2.Author/Speaker
+3.Discussions
 
 The result is stored in CSV format that can be further used to apply on various machine learning algorithms and derive useful information.
 
